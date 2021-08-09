@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\alexi\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\alexi\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_GetaGamesDevTest.632853208.00" t="ExcludeRecursive" />
-    <e p="D:\User\Documentos\Unity Proyects\Pruebatecnica\GetaGamesDevTest" t="IncludeRecursive">
+    <e p="C:\Users\alexi\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_GetaGamesDevTest.-776089884.00" t="ExcludeRecursive" />
+    <e p="D:\User\Documentos\GetaGamesDevTest" t="IncludeRecursive">
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
@@ -25,6 +25,9 @@
               <e p="CarMovement.cs" t="Include" />
             </e>
             <e p="UI" t="Include">
+              <e p="Game" t="Include">
+                <e p="UIGameMediator.cs" t="Include" />
+              </e>
               <e p="MainMenu" t="Include">
                 <e p="MainMenu.cs" t="Include" />
                 <e p="MenuMediator.cs" t="Include" />
