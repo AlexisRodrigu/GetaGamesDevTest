@@ -6,6 +6,6 @@ public class TimerUp : Items
 {
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("Pegas");
+       Destroy(gameObject);
     }
 }
